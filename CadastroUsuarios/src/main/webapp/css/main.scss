@@ -1,0 +1,57 @@
+
+@charset "UTF-8";
+
+#conteiner {
+	background-color: rgba(167, 175, 137, 0.473);
+	background-color: rgba(167, 175, 137, 0.473);
+	font-family: roboto, arial, sans-serif;
+	position: relative;
+	border-radius: 9%;
+	height: 250px;
+	width: 300px;
+	top: 60px;
+	left: 40%;
+	right: 40%;
+}
+
+h1 {
+	margin: 0px 0px 0px 0px;
+	position: relative;
+	font-size: 15px;
+	width: 170px;
+	left: 65px;
+	right: 65px;
+	top: 30px;
+}
+
+.txt-dados {
+	border-radius: 5px;
+	position: relative;
+	border: solid 1px;
+	padding-left: 10px;
+	position: relative;
+	width: 180px;
+	height: 25px;
+	left: 50px;
+	right: 60px;
+	top: 70px;
+}
+
+.bt-envia {
+	border-radius: 5px;
+	position: relative;
+	border: solid 1px;
+	width: 80px;
+	height: 25px;
+	top: 110px;
+	left: -90px;
+}
+
+.msg {
+	text-align: center;
+	position: relative;
+	left: 53.055px;
+	right: 53.055px;
+	top: 140px;
+	color: red;
+}
